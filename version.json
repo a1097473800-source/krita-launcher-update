@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "notes": "修复启动器更新逻辑，优化启动体验。",
+  "version": "1.2.2",
+  "notes": "修复启动器更新逻辑，优化启动体验，提升版本检测与下载安装稳定性。",
   "url": "https://github.com/a1097473800-source/krita-launcher-update/releases/latest/download/KritaLauncherSetup.exe",
   "force": false,
-  "published_at": "2026-04-28"
+  "published_at": "2026-05-13"
 }
