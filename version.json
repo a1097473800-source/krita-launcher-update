@@ -1,7 +1,13 @@
 {
-  "version": "1.2.2",
-  "notes": "修复启动器更新逻辑，优化启动体验，提升版本检测与下载安装稳定性。",
-  "url": "https://github.com/a1097473800-source/krita-launcher-update/releases/latest/download/KritaLauncherSetup.exe",
+  "version": "1.2.3",
+  "product_id": "drowmai-krita-launcher",
+  "package_type": "launcher",
+  "size": 22788178,
+  "sha256": "6ec4dc85c4ffe87b7205e86b00b688d8629ae8b59258d635184a7f2e64f41fe6",
+  "url": "https://github.com/a1097473800-source/krita-launcher-update/releases/download/1.2.3/KritaLauncherSetup.exe",
+  "notes": "增加百度网盘手动下载、解压及模型归位、国内源依赖修复与进度显示；保留更新和断点续传修复。",
   "force": false,
-  "published_at": "2026-05-13"
+  "channel": "stable",
+  "mirrors": [],
+  "published_at": "2026-11-16"
 }

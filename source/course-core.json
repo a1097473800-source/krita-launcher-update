@@ -1,0 +1,10 @@
+{
+  "repo_id": "shiwu000001/comfyui-local-env",
+  "filename": "comfyui_core.zip",
+  "size": 4006157369,
+  "sha256": "2cf0983b731e381ca73be4291d94544ad71967e1b31dd75992becf9558daae2a",
+  "python": "3.13",
+  "torch": "2.10.0+cu130",
+  "cuda": "13.0",
+  "comfy_commit": "040460495c5713b852e4aac29a909aa63b309da7"
+}
